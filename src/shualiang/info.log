@@ -1,0 +1,4 @@
+Begin To ShuaLiang
+TypeError: null is not an object (evaluating 'document.body.clientWidth')
+
+  http://dongminyuan.com.cn/Tpl/mobile/js/index.min.js:9 in setHeight

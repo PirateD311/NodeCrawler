@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "casperjs": "^1.1.4",
+    "cheerio": "^1.0.0-rc.2",
+    "immutable": "^3.8.2",
+    "jqasper": "^1.0.0",
+    "moment": "^2.19.1"
+  }
+}

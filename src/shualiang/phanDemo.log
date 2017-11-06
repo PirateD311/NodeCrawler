@@ -1,0 +1,3 @@
+TypeError: undefined is not a constructor (evaluating 'fs.writeFile')
+
+  phantomjs://code/phanDemo.js:25 in global code
